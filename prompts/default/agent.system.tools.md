@@ -11,3 +11,7 @@
 {{ include './agent.system.tool.code_exe.md' }}
 
 {{ include './agent.system.tool.web.md' }}
+
+{{ include './agent.system.tool.twitter_post.md' }}
+
+{{ include './agent.system.tool.twitter_get_replies.md' }}
